@@ -1,0 +1,5 @@
+sur la page de recuperation de password on voit que ya pas de champ pour mettre le mail
+en regardant la source on s'apercoit qu'il est set en "hidden"
+
+on modifie pour pouvoir faire quelques tests
+avec une chaine vide on a un flag

@@ -1,0 +1,16 @@
+tout en bas de l'index on peut cliquer sur BornToSec
+ca nous mene a une page sur des albatros de merde
+on lit le code source, ya BEAUCOUP de commentaires
+jai tout lu on sen branle
+mais tout en bas ya deux commentaires qui nous interessent:
+
+```
+Let's use this browser : "ft_bornToSec". It will help you a lot.
+You must cumming from : "https://www.nsa.gov/" to go to the next step
+```
+
+On installe une extension de navigateur ou on peut changer les headers HTML
+On change referer en https://www.nsa.gov/ et le user-agent en ft_bornToSec
+
+et on a notre flag !!!!!!!!!!!!!!!!!!super
+

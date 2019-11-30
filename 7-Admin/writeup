@@ -1,0 +1,8 @@
+dans le fichier /robots.txt on peut voir deux dossiers: /.hidden et /whatever
+
+dans /whatever un fichier .htpasswd
+le mdp est hashe, on regarde si c'est du md5 (tres faible)
+resultat : dragon
+on se rend sur /admin et on essaye les logs root / dragon
+
+

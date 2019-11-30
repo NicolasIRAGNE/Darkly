@@ -1,0 +1,3 @@
+meme technique que 9
+
+UNION SELECT comment,title FROM list_images 

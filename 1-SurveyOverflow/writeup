@@ -1,4 +1,5 @@
 dans la page "survey" on peut voter avec un formulaire qui va de 1 a 10
-cote client, on modifie une des valeurs par une tres grande valeur et on envoie la requete
+le check est fait cote client donc on peut juste modifier le html
 
+et on envoie un truc qu'on est pas sense envoyer
 

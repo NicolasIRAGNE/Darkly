@@ -1,1 +1,10 @@
+dans la page de recherche de membre on peut faire une injection SQL (il fait la requete avec ce quon lui donne directement)
+avec plusieurs tests on peut voir que si on ecrit 1 OR 1 il nous montre toute la db
+
+sur les DB il y a une table information_schema qui contient toute l'architecture de la db
+
+on peut donc recuperer le nom de toutes les tables et les colonnes
+
+apres pas mal de tests on trouve ces deux colonnes ma foi fortes interessantes
+
 1 UNION SELECT countersign, commentaire FROM users 

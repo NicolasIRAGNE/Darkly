@@ -1,1 +1,7 @@
 https://snyk.io/vuln/npm:markdown-it:20160912
+
+la page media utilise une balise object pour charger une ressource 
+l'injection php ne fonctionne pas, probablement un check de syntaxe ?
+on peut changer le type de donnee en base64 pour bypass le check et ecrire du php
+
+http://10.12.1.108/?page=media&src=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K

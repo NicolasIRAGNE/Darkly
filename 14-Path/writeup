@@ -1,0 +1,6 @@
+Le site utilise index.php pour acceder a des pages avec le parametre page
+On tente des trucs, le site nous dit "Wtf ?" parfois
+On tente un path traversal basique a base de ../
+Le message du site change, on est sur la bonne voie (surement)
+/index.php?page=../../../../../../../../../../etc/passwd
+:)
